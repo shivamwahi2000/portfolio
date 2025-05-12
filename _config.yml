@@ -1,6 +1,4 @@
-title: "Shivam Wahi"
-description: "Data Engineer | Consultant | Cloud Specialist"
-author: Shivam Wahi
+title: Shivam Wahi
+description: Data Engineer | Consultant | Cloud Specialist
+baseurl: "/portfolio"
 theme: jekyll-theme-minimal
-baseurl: ""
-url: "https://shivamwahi.github.io"
